@@ -108,8 +108,3 @@ Possible future improvements include:
 * Restart button
 * High-score tracking
 * Improved UI design
-
-## Author
-
-**Anastasis Kabiotis**
-
